@@ -3,7 +3,7 @@ welcome-area
 =================================*/
 
 .welcome-area {
-    background: url(../../images/slider/sunshine.jpg);
+    background: url(../../images/welcome-area/welcome-area.jpg);
     position: relative;
     height: 600px;
     background-attachment: fixed;
