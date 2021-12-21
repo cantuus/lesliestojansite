@@ -20,7 +20,7 @@ const Header2 = () => {
                                 <ul className=" mobail-menu d-flex">
                                     <li><Link to='/home'>Home</Link>
                                         <ul className="submenu">
-                                            <li><Link to='/'>Home Style 1</Link></li>
+                                            <li><Link to='#home'>Home</Link></li>
                                         </ul>
                                     </li>
                                     <li><Link to='/home'>Story</Link></li>

@@ -9,6 +9,7 @@ import Rsvp from '../../components/rsvp';
 import Gift from '../../components/gift';
 import Navbar from '../../components/Navbar'
 import Saveday from '../../components/countdown'
+import NeedToKnow from '../../components/needtoknow/needtoknow';
 
 
 const Homepage = () => {
@@ -18,9 +19,10 @@ const Homepage = () => {
            <SimpleSlider/>
            <Saveday/>
            <Welcome/>
-           <Story/>
            <Location/>
+           <NeedToKnow/>
            <Rsvp/>
+           <Story/>
            <Gift/>
        </div>
     )
