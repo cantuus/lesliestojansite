@@ -25,7 +25,7 @@ class NeedToKnow extends Component {
                                     <p>We have secured two local hotel blocks at this time for guests to reserve and pay for their stay. Please click on the logos to learn more about options and pricing before you book. </p>
                                     <div className="hotel-area">
                                         <div className="hotel-item hotel-item-1">
-                                            <a alt="courtyard" href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1639609135744&key=GRP&app=resvlink"><img src={courtyard}></img></a>
+                                            <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1639609135744&key=GRP&app=resvlink"><img alt="courtyard" src={courtyard}></img></a>
                                         </div>
                                         <div className="hotel-item">
                                             <img alt="homewood" src={homewood}></img>
