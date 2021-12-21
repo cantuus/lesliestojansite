@@ -12,7 +12,7 @@ class NeedToKnow extends Component {
                             <div className="col-lg">
                                 <div className="ceromony-content">
                                     <h3>Event Details</h3>
-                                    <p>This is a <b>dry</b> wedding. We are keeping our event family friendly and will not be serving alcohol.</p>
+                                    <p>This is a DRY wedding. We are keeping our event family friendly and will not be serving alcohol.</p>
                                     <p>The ceremony will be in the park on the grass. Please consider wearing appropriate shoes.</p>
                                     <p>Complimentary parking validation available onsite at Harbor View Loft across the street from Harbor Island Park.</p>
                                     <p>The venue has a strict time frame for use. The reception needs to end at 8:00pm so that vendors can have their full clean-up time of 1 hour. They will need to be out by 9:00pm.</p>
