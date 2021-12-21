@@ -1,0 +1,24 @@
+.hotel-area {
+    display: flex;
+    max-width: 60%;
+    margin-left: 13rem;
+}
+
+.hotel-item {
+    padding: 1rem;
+}
+
+.hotel-item-1 {
+    width: 110%;
+}
+
+@media (max-width:767px) {
+    .hotel-area {
+        max-width: 80%;
+        margin-left: 2rem;
+    }
+
+    .hotel-item-1 {
+        width: 225%;
+    }
+}

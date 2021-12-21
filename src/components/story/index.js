@@ -103,7 +103,7 @@ const Story = () => {
                                         </div>
                                         <h2>The Marriage Proposal</h2>
                                         <span className="date">Jan 18, 2021</span>
-                                        <p>Cory took Ashley out to dinner and then went for a romantic walk at La Jolla Shores. They sat down in a gazebo and after a few minutes, Cory got down on one knee and popped the question. Ashley said "Of Course"</p>
+                                        <p>Cory took Ashley out to dinner and then they went for a romantic walk at La Jolla Shores. They sat down in a gazebo to watch the sunset and after a few minutes, Cory got down on one knee and popped the question. Ashley cried and said, "Of course!"</p>
                                     </div>
                                 </div>
                             </div>

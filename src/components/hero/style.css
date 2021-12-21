@@ -1,3 +1,7 @@
+.slick-track {
+  height: 56rem;
+}
+
 .slick-dots {
     bottom: 30px;
 }
@@ -11,7 +15,7 @@
 }
 
 .item1{
-    background: url(../../images/slider/slider2.jpeg);
+    background: url(../../images/slider/slider4.jpeg);
     height: 950px;
     display: flex!important;
     justify-content: center;
@@ -30,7 +34,7 @@
     position: relative;
 }
 .item3{
-  background: url(../../images/slider/slider3.JPG);
+  background: url(../../images/slider/slider2.jpeg);
   height: 950px;
    display: flex!important;
   justify-content: center;
@@ -39,7 +43,7 @@
   position: relative;
 }
 .item4{
-  background: url(../../images/slider/slider4.jpeg);
+  background: url(../../images/slider/slider6.jpeg);
   height: 950px;
    display: flex!important;
   justify-content: center;
@@ -48,7 +52,7 @@
   position: relative;
 }
 .item5{
-  background: url(../../images/slider/slider5.jpeg);
+  background: url(../../images/slider/slider3.JPG);
   height: 950px;
    display: flex!important;
   justify-content: center;
@@ -57,7 +61,7 @@
   position: relative;
 }
 .item6{
-  background: url(../../images/slider/slider6.jpeg);
+  background: url(../../images/slider/slider5.jpeg);
   height: 950px;
    display: flex!important;
   justify-content: center;
@@ -68,7 +72,7 @@
 .item7{
   background: url(../../images/slider/slider7.jpeg);
   height: 950px;
-   display: flex!important;
+  display: flex!important;
   justify-content: center;
   flex-direction: column;
   width: 100%;
@@ -86,11 +90,11 @@
 }
 .slide-content {
   text-align: center;
-  background: url(../../images/slider/weddingLogo.png);
+  background: url(../../images/slider/transparentLogo2.png);
   background-size: cover;
   background-repeat: no-repeat;
-  width: 540px;
-  height: 33rem;
+  width: 393px;
+  height: 26rem;
   display: flex;
   justify-content: center;
   flex-direction: column;

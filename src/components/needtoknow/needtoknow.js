@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import courtyard from "../../images/hotel/courtyardlogo.png"
+import homewood from "../../images/hotel/homewoodsuites2.png"
 import './style.css'
 
 class NeedToKnow extends Component {
@@ -20,6 +22,15 @@ class NeedToKnow extends Component {
                                 <div className="ceromony-content">
                                     <h3>Hotel Blocks</h3>
                                     <p>Please book your hotel early if you are visiting San Diego. The wedding will occur during the same weekend as Comic-Con and booking will potentially be difficult if you wait until the last minute.</p>
+                                    <p>We have secured two local hotel blocks at this time for guests to reserve and pay for their stay. Please click on the logos to learn more about options and pricing before you book. </p>
+                                    <div className="hotel-area">
+                                        <div className="hotel-item hotel-item-1">
+                                            <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1639609135744&key=GRP&app=resvlink"><img src={courtyard}></img></a>
+                                        </div>
+                                        <div className="hotel-item">
+                                            <img src={homewood}></img>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div className="ceromony-content">
                                     <h3>Reception</h3>
@@ -27,7 +38,7 @@ class NeedToKnow extends Component {
                                 </div>
                                 <div className="ceromony-content">
                                     <h3>If you are unable to attend in San Diego..</h3>
-                                    <p>There will be a reception in Hampshire, Illinois in August. Please stay tuned for more details.</p>
+                                    <p>There will be a reception in Hampshire, Illinois in August after the honeymoon. Please stay tuned for more details.</p>
                                 </div>
                             </div>
                         </div>

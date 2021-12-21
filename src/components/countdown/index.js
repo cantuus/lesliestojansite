@@ -13,11 +13,11 @@ class Saveday extends Component {
                             <div className="row">
                                 <div className="col-12 col-md-4 section-area">
                                     <div className="section-sub"></div>
-                                    <h2 className="big">We're excited to see you!</h2>
+                                    <h2 className="big">We're excited to celebrate with you in...</h2>
                                 </div>
                                 <div className="col-12 col-md-8 clock-area">
                                     <div className="count-down-clock">
-                                    <DateCountdown dateTo='July 023, 2022 15:00:00 GMT-08:00' mostSignificantFigure='day'/>;
+                                    <DateCountdown dateTo='July 023, 2022 15:00:00 GMT-08:00' mostSignificantFigure='day'/>
                                     </div>
                                 </div>
                             </div>

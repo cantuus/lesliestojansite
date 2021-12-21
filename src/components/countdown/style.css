@@ -1,3 +1,9 @@
+.count-down-clock {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
 .count-down-area{
     padding-top: 80px;
 }
@@ -41,6 +47,16 @@
     margin-bottom: 0;
     color: #fff;
     font-family: 'Great Vibes', cursive;
+}
+
+.odometer-block {
+    font-size: 3rem;
+    font-family: 'Ephesis', cursive;
+    color: white;
+}
+
+.odometer-block span {
+    padding: 0 1px;
 }
 
 @media (max-width:767px){
@@ -119,7 +135,7 @@
 
 
 .section-area h2 {
-    font-size: 45px;
+    font-size: 40px;
     text-align: center;
     border: 1px solid rgba(255,255,255, 0.2);
     padding: 17.25px 25px;
