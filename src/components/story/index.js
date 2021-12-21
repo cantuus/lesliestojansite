@@ -37,9 +37,6 @@ const Story = () => {
                                         <h2>First time we met</h2>
                                         <span className="date">March 4th, 2016</span>
                                         <p>Cory and Ashley met on the dance floor in San Diego, CA. Cory's coworker asked Ashley if she could dance with Cory since it was his birthday and she said, "Sure, why not?"</p>
-                                        <div className="story-button">
-                                            <Link className="theme-btn" to="/" title="READ MORE">READ MORE</Link>
-                                        </div>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -56,7 +53,7 @@ const Story = () => {
                                         </div>
                                         <h2>Our First Date</h2>
                                         <span className="date">March 11, 2016</span>
-                                        <p>They ate dinner at In-n-Out and played Laser Tag at UltraZone and they went walking around the block. Ashley drove Cory back to the Navy Base and when he leaned in for a kiss, she gave him the cheek.</p>
+                                        <p>Dinner was casual as Cory planned on them playing Lazer Tag at UltraZone. They had a lot of fun and went walking around the block. Ashley drove Cory back to the Navy Base and when Cory leaned in for a kiss, she gave him the cheek.</p>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -107,7 +104,7 @@ const Story = () => {
                                         </div>
                                         <h2>The Marriage Proposal</h2>
                                         <span className="date">Jan 18, 2021</span>
-                                        <p>Cory had decided to propose to Ashley on the 18th of January. Cory had gotten the ring and hid it in his room. On the day of the proposal, Cory had arranged with Ashley's sister, Rebekah, and her friend Binh to meet Cory and Ashley at a gazebo in La Jolla overlooking the ocean. When they arrived, Ashley was driving and she managed to park right behind her sister Rebekah. Cory had thought the whole thing was ruined because he thought that Ashley recognized Rebekah's license plate. Fortunately for Cory, she did not. Ashley had other things in mind such as work. Then Cory decided to walk the opposite way of the gazebo to buy them some time and make it more of a surprise for Ashley. Little did he know, Ashley's friend and sister were waiting along the path that they were walking. Ashley had seen her sister and friend but Cory did not.  After a bit, Cory and Ashley walked towards the gazebo. There was already a couple inside and Cory was nervous that he wouldn't get it. Fortunately for Cory as they approach the gazebo, the couple left and Cory and Ashley proceeded inside. Cory played some romantic music and then got down on one knee and popped the question. Ashley tearfully said of course. </p>
+                                        <p>Cory took Ashley out to dinner and then went for a romantic walk at La Jolla Shores. They sat down in a gazebo and after a few minutes, Cory got down on one knee and popped the question. Ashley said "Of Course"</p>
                                     </div>
                                 </div>
                             </div>
