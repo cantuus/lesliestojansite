@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import howWeMet2 from '../../images/story/howWeMet2.PNG'
 import lazerTag from '../../images/story/lazertag.PNG'
 import startLongDistance from '../../images/story/startLongDistance.PNG'
