@@ -28,7 +28,7 @@ class NeedToKnow extends Component {
                                             <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1639609135744&key=GRP&app=resvlink"><img alt="courtyard" src={courtyard}></img></a>
                                         </div>
                                         <div className="hotel-item">
-                                            <img alt="homewood" src={homewood}></img>
+                                            <a href="https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=SANLSHW&arrivalDate=2022-07-22&departureDate=2022-07-24&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink"><img alt="homewood" src={homewood}></img></a>
                                         </div>
                                     </div>
                                 </div>
