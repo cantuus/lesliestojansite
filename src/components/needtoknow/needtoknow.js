@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import courtyard from "../../images/hotel/courtyardlogo.png"
 import homewood from "../../images/hotel/homewoodsuites2.png"
+import countryinn from "../../images/hotel/hotelinandcountry.svg"
 import './style.css'
 
 class NeedToKnow extends Component {
@@ -29,6 +30,9 @@ class NeedToKnow extends Component {
                                         </div>
                                         <div className="hotel-item">
                                             <a href="https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=SANLSHW&arrivalDate=2022-07-22&departureDate=2022-07-24&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink"><img alt="homewood" src={homewood}></img></a>
+                                        </div>
+                                        <div className="hotel-item hotel-item-2">
+                                            <a href="https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.radissonhotelsamericas.com%2Fen-us%2Fhotels%2Fcountry-inn-san-diego-ca&data=04%7C01%7CMichael.deJesus%40countryinn.com%7C7f7ccca1ce964cbff89d08d90e712bc3%7C1e69e311af1f4162b24e16bb3f962d34%7C0%7C0%7C637556701486163717%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=YosctCNiVEEnnvLcW%2FY6VxmJnO8imgdumesXW%2FyTJCs%3D&reserved=0"><img alt="country-inn" src={countryinn}></img></a>
                                         </div>
                                     </div>
                                 </div>

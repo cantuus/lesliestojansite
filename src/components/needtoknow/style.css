@@ -12,6 +12,10 @@
     width: 152%;
 }
 
+.hotel-item-2 {
+    padding-top: 5px;
+}
+
 @media (max-width:767px) {
 
     .count-down-clock {
