@@ -46,7 +46,7 @@ class NeedToKnow extends Component {
                                 </div>
                                 <div className="ceromony-content">
                                     <h3>If you are unable to attend in San Diego..</h3>
-                                    <p>There will be a reception in Hampshire, Illinois in August after the honeymoon. Please stay tuned for more details.</p>
+                                    <p>There will be a reception in Genoa, Illinois in August after the honeymoon. Please stay tuned for more details.</p>
                                 </div>
                             </div>
                         </div>
