@@ -27,7 +27,9 @@ const Location = () => {
                                     <span>Harbor Island Park</span>
                                     <span>1875 Harbor Island Drive San Diego, CA 92101</span>
                                     <span>Location: Harbor Island Park</span>
-                                    <p>Complimentary Parking Validation Available onsite at Harbor View Loft across the street from Harbor Island Park.  </p>
+                                    <p>Complimentary Parking Validation Available onsite at Harbor View Loft across the street from Harbor Island Park (A credit card is required to enter the parking lot).
+                                    </p>
+                                    
                                     <a href="https://www.google.com/maps/place/Harbor+Island+Park/@32.7251045,-117.2083883,17z/data=!3m1!4b1!4m5!3m4!1s0x80deab6b395eadb5:0xb92347b65f430353!8m2!3d32.7251045!4d-117.2061996">See Location</a>
                                 </div>
                             </div>
