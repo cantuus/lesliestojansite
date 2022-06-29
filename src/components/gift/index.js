@@ -14,7 +14,13 @@ class Gift extends Component {
             </div>
           </div>
           <div className="col-lg" style={{ display: "flex", justifyContent: "center"}}>
-            <div className="btn"><a href="https://www.blueprintregistry.com/registry/cory-stojan-wedding-registry-7-23-2022">Click Here for Registry</a></div>
+            <div className="btn"><a href="https://www.blueprintregistry.com/registry/cory-stojan-wedding-registry-7-23-2022">Click Here for Wedding Registry</a></div>
+          </div>
+          <div className="section-title text-center">
+            <p>If you would prefer to directly purchase an item, we have also linked Ashley's Bridal Shower Registry through Amazon.</p>
+          </div>
+          <div className="col-lg" style={{ display: "flex", justifyContent: "center"}}>
+            <div className="btn"><a href="https://www.amazon.com/registries/custom/3CH18XEEPIQQJ/guest-view">Click Here for Bridal Shower Registry</a></div>
           </div>
         </div>
       </div>

@@ -36,7 +36,6 @@ export default class MobileMenu extends Component {
                         <li><AnchorLink href='#home'>Home</AnchorLink></li>
                         <li><AnchorLink href='#event'>Location</AnchorLink></li>
                         <li><AnchorLink href='#needtoknow'>Need To Know</AnchorLink></li>
-                        <li><AnchorLink href='#rsvp'>RSVP</AnchorLink></li>
                         <li><AnchorLink href='#story'>Story</AnchorLink></li>
                         <li><AnchorLink href='#registry'>Registry</AnchorLink></li>
                     </ul>
