@@ -52,7 +52,7 @@ const Story = () => {
                                         </div>
                                         <h2>Our First Date</h2>
                                         <span className="date">March 11, 2016</span>
-                                        <p>Dinner was casual as Cory planned on them playing Lazer Tag at UltraZone. They had a lot of fun and went walking around the block. Ashley drove Cory back to the Navy Base and when Cory leaned in for a kiss, she gave him the cheek.</p>
+                                        <p>Dinner was casual as Cory planned on them playing Lazer Tag at UltraZone. They had a lot of fun and went walking around the block. Ashley drove Cory back to the Navy Base. When Cory leaned in for a kiss, Ashley was so nervous, she gave him the cheek.</p>
                                     </div>
                                 </div>
                                 <div className="item">
