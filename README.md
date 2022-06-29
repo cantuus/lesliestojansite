@@ -61,7 +61,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+We're using Vercal to automate deployment.  Please make sure to install the Vercel CLI.  After installation, please run 'vercel'.  This will deploy the development version. If you would like to deploy to production, run 'vercel --prod'.
 
 ### `npm run build` fails to minify
 
