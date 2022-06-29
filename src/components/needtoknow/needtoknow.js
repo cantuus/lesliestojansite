@@ -19,6 +19,8 @@ class NeedToKnow extends Component {
                                     <p>The ceremony will be in the park on the grass. Please consider wearing appropriate shoes.</p>
                                     <p>Complimentary parking validation available onsite at Harbor View Loft across the street from Harbor Island Park.</p>
                                     <p>The venue has a strict time frame for use. The reception needs to end at 8:00pm so that vendors can have their full clean-up time of 1 hour. They will need to be out by 9:00pm.</p>
+                                    <h3>Dress Code</h3>
+                                    <p>The dress code for the wedding will be semi-formal.</p>
                                 </div>
                                 <div className="ceromony-content">
                                     <h3>Hotel Blocks</h3>
