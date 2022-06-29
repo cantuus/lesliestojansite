@@ -40,7 +40,9 @@ class NeedToKnow extends Component {
                                 </div>
                                 <div className="ceromony-content">
                                     <h3>Reception</h3>
-                                    <p>Our reception will be across the street from the ceremony (indoors). If the street is very busy, please be mindful that there is no official crosswalk as you make your way to the reception.</p>
+                                    <p>Our reception will be across the street from the ceremony at the Harbor View Loft (indoors). It is located on the second floor of the building.</p>
+                                    <p>There are stairs and an elevator that lead up to the second floor.</p>
+                                    <p>If the street is very busy, please be mindful that there is no official crosswalk as you make your way to the reception.</p> 
                                 </div>
                                 <div className="ceromony-content">
                                     <h3>If you are unable to attend in San Diego..</h3>
