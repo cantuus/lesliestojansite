@@ -16,6 +16,8 @@
 
 .item1{
     background: url(../../images/slider/slider4.jpeg);
+    background-size: 100%;
+    background-position: cover;
     height: 950px;
     display: flex!important;
     justify-content: center;
@@ -26,6 +28,8 @@
 
 .item2{
     background: url(../../images/slider/slider1.jpeg);
+    background-size: 100%;
+    background-position: cover;
     height: 950px;
      display: flex!important;
     justify-content: center;
@@ -35,6 +39,8 @@
 }
 .item3{
   background: url(../../images/slider/slider2.jpeg);
+  background-size: 100%;
+  background-position: cover;
   height: 950px;
    display: flex!important;
   justify-content: center;
@@ -44,6 +50,8 @@
 }
 .item4{
   background: url(../../images/slider/slider6.jpeg);
+  background-size: 100%;
+  background-position: cover;
   height: 950px;
    display: flex!important;
   justify-content: center;
@@ -53,6 +61,8 @@
 }
 .item5{
   background: url(../../images/slider/slider3.JPG);
+  background-size: 100%;
+  background-position: cover;
   height: 950px;
    display: flex!important;
   justify-content: center;
@@ -62,6 +72,8 @@
 }
 .item6{
   background: url(../../images/slider/slider5.jpeg);
+  background-size: 100%;
+  background-position: cover;
   height: 950px;
    display: flex!important;
   justify-content: center;
@@ -71,6 +83,8 @@
 }
 .item7{
   background: url(../../images/slider/slider7.jpeg);
+  background-size: 100%;
+  background-position: cover;
   height: 950px;
   display: flex!important;
   justify-content: center;
