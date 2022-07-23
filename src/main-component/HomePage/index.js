@@ -10,6 +10,8 @@ import Navbar from '../../components/Navbar'
 import Saveday from '../../components/countdown'
 import NeedToKnow from '../../components/needtoknow/needtoknow';
 import Covid from '../../components/covid'
+import Program from '../../components/program/program'
+import Menu from "../../components/menu/menu"
 
 
 const Homepage = () => {
@@ -20,6 +22,8 @@ const Homepage = () => {
            <Saveday/>
            <Welcome/>
            <Covid/>
+           <Program/>
+           <Menu/>
            <NeedToKnow/>
            <Gift/>
            <Location/>

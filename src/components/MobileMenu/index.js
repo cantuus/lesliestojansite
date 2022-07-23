@@ -33,11 +33,14 @@ export default class MobileMenu extends Component {
                         <h2><Link to='/home'>Cory & Ashley</Link></h2>
                     </div>
                     <ul className="responsivemenu">
-                        <li><AnchorLink href='#home'>Home</AnchorLink></li>
-                        <li><AnchorLink href='#event'>Location</AnchorLink></li>
-                        <li><AnchorLink href='#needtoknow'>Need To Know</AnchorLink></li>
-                        <li><AnchorLink href='#story'>Story</AnchorLink></li>
+                        <li><AnchorLink href='#home'>Home </AnchorLink></li>
+                        <li><AnchorLink href='#covid'>COVID </AnchorLink></li>
+                        <li><AnchorLink href='#program'>Program </AnchorLink></li>
+                        <li><AnchorLink href='#menu'>Reception Menu </AnchorLink></li>
+                        <li><AnchorLink href='#needtoknow'>Need to Know</AnchorLink></li>
                         <li><AnchorLink href='#registry'>Registry</AnchorLink></li>
+                        <li><AnchorLink href='#event'>Location</AnchorLink></li>
+                        <li><AnchorLink href='#story'>Story</AnchorLink></li>
                     </ul>
 
                 </div>

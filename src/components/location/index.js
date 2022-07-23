@@ -13,6 +13,7 @@ const Location = () => {
             <div className="container">
                 <Sectiontitle section={'When & Where'} date={'Date: July 23, 2022'} />
                 <div className="service-area-menu">
+                    <h3 className='location-reminder'>***Reminder to arrive on time (with enough time to park your vehicle) ideally before 2:50pm because the venue has a strict timetable and we will be starting the ceremony right at 3:00pm</h3>
                     <div className="Ceremony-wrap">
                         <div className="row">
                             <div className="col-lg-5">

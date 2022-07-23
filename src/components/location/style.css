@@ -4,6 +4,10 @@
     padding: 10px 0;
 }
 
+.location-reminder{
+    text-align: center;
+}
+
 .service-area-menu ul {
     justify-content: space-around;
 }
